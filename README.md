@@ -26,6 +26,7 @@ This is my personal Github repo. You can find my work account here: [@oriordanni
 
 #### ETL/ELT Stack
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=green)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=Airbyte&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Github Stats
