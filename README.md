@@ -29,6 +29,7 @@ This is my personal Github repo. You can find my work account here: [@oriordanni
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=Airbyte&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
+
 ### Github Stats
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nialloriordan)
 
