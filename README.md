@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is my personal Github repo. You can find my work account here: [@oriordanniall](https://github.com/oriordanniall)
+This is my personal Github repo.
 
-- 🔭 I’m a Data Engineer at Funding Circle
+- 🔭 I’m a Data Engineer at Deliveroo
 - 🌱 I’m currently learning more about Spark and AWS Services
 - 🐍 Experienced with Python and SQL-speaking backends such as Postgres, Redshift, Athena, and more
 - 🧰 Favourite tools: Airbyte, Airflow, dbt and MLFlow
@@ -32,11 +32,6 @@ This is my personal Github repo. You can find my work account here: [@oriordanni
 
 ### Github Stats
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=nialloriordan)
-
-
-### Languages used on Github
-
-![Languages I have used](https://github-readme-stats.vercel.app/api/top-langs/?username=nialloriordan)
 
 ### Let's Connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niall-oriordan/)
